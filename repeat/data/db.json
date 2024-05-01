@@ -1,0 +1,71 @@
+{
+  "task": [
+    {
+      "task": "write Code",
+      "id": "4b3107b8-22ee-42b4-967a-dc10d1ac1a56",
+      "desc": "Write some new Codes",
+      "date": "May 1, 2024 10:38 AM",
+      "started": false,
+      "done": false
+    },
+    {
+      "task": "Follow up on Fedora",
+      "id": "2ed4d8d6-35ec-412f-943a-408066838adb",
+      "desc": "Make sure that Fedora isn't lazy today!",
+      "date": "May 1, 2024 12:33 PM",
+      "started": false,
+      "done": false
+    },
+    {
+      "task": "Check Rasheedat",
+      "id": "684d0b73-9a23-4aeb-9f91-238101130085",
+      "desc": "Make sure she isn't sleeping while coding",
+      "date": "May 1, 2024 12:34 PM",
+      "started": false,
+      "done": false
+    },
+    {
+      "task": "Wash Plate",
+      "id": "57fc558b-d812-4556-b10e-eed2f02bb8dc",
+      "desc": "get all plates clean",
+      "date": "May 1, 2024 12:35 PM",
+      "started": false,
+      "done": false
+    }
+  ],
+  "started": [
+    {
+      "task": "jkjnkjhj",
+      "id": "3718b581-4f47-4897-8327-05338133d95f",
+      "desc": "ghghagyty",
+      "date": "Apr 29, 2024 12:46 PM",
+      "started": true,
+      "done": false
+    },
+    {
+      "task": "washing",
+      "id": "a6fb5532-d150-4af9-b93e-2e1d6e1c1514",
+      "desc": "just do some washing",
+      "date": "Apr 29, 2024 1:30 PM",
+      "started": true,
+      "done": false
+    },
+    {
+      "task": "jkjnkjhj",
+      "id": "f464546e-bd5d-45b4-9b3a-c8c3296332ab",
+      "desc": "ghghagyty",
+      "date": "Apr 29, 2024 12:47 PM",
+      "started": true,
+      "done": false
+    },
+    {
+      "task": "Do Coding",
+      "id": "b9a62d21-1f54-4d38-91c8-d215ffda3954",
+      "desc": "Just write some new lines of Code",
+      "date": "May 1, 2024 12:28 PM",
+      "started": true,
+      "done": false
+    }
+  ],
+  "done": []
+}
